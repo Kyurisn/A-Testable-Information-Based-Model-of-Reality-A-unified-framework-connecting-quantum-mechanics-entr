@@ -1,4 +1,5 @@
-# A Testable Information-Based Model of Reality
+Gravity-Dependent Decoherence: A Testable Model
+An information-based framework connecting quantum mechanics, entropy, and gravity
 
 ## 📄 Paper
 
