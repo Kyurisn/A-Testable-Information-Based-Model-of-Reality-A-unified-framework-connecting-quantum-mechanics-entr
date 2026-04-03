@@ -1,3 +1,6 @@
+
+
+
 # Information Stability Model
 
 A minimal theoretical framework connecting:
@@ -5,6 +8,8 @@ A minimal theoretical framework connecting:
 - entropy
 - observation
 - gravity
+
+Minimal theoretical model connecting quantum mechanics, entropy, and gravity.
 
 ## Key Prediction
 ΔΓ = λgh / c²
