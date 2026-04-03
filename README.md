@@ -1,3 +1,9 @@
+# A Testable Information-Based Model of Reality
+
+## 📄 Paper
+
+👉 **[Download v3 (latest)](./cell_update_gravity_model_v3.pdf)**
+
 ## Abstract
 
 We propose a minimal theoretical framework in which reality emerges from stable information structures. By introducing internal degrees of freedom (χ) and entropy (θ), the model explains the transition from quantum coherence to classical behavior.
